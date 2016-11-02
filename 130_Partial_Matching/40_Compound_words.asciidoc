@@ -93,7 +93,7 @@ Weißkopfseeadler
 
 returns these terms:
 
-    wei, eiß, ißk, ßko, kop, opf, pfs, fse, see, eea,ead, adl, dle, ler
+    wei, eiß, ißk, ßko, kop, opf, pfs, fse, see, eea, ead, adl, dle, ler
 
 We can index our example compound words to test this approach:
 
